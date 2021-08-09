@@ -1,9 +1,9 @@
 ## Hi, I'm Larissa Arruda
 
 <ul>
-  <li>🖥️ I'm a beginner in technology.
-  <li>🎯 Focused on learning everything about Web.
-  <li>🥇 Learning Node, React and Python.
+  <li>👩‍🎓 I'm an Analysis and Systems Development student.
+  <li>🖥️ Beginner in technology focused on learning everything about Web.
+  <li>📚 Learning Node, React and Python.
 </ul>
 
   ##
