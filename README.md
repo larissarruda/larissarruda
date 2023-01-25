@@ -3,7 +3,7 @@
 <ul>
   <li>👩‍🎓 I'm an Analysis and Systems Development student.
   <li>🖥️ Beginner in technology focused on learning everything about Web.
-  <li>📚 Learning Node, React and Python.
+  <li>📚 Learning C#, React and Python.
 </ul>
 
   ##
