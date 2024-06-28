@@ -1,10 +1,8 @@
 ## Hi, I'm Larissa Arruda
 
-<ul>
-  <li>👩‍🎓 I'm an Analysis and Systems Development student.
-  <li>🖥️ Beginner in technology focused on learning everything about Web.
-  <li>📚 Learning C#, React and Python.
-</ul>
+- 👩‍🎓 I'm have an Analysis and Systems Development degree.
+- ✈️ Embedded System for Aerospace Industry @ [UFPE - CIn] (https://pes-embraer.cin.ufpe.br/)
+- 🖥️ Chatbot and software development experience.
 
   ##
 
