@@ -1,6 +1,6 @@
 ## Hi, I'm Larissa Arruda
 
-- 👩‍🎓 I'm have an Analysis and Systems Development degree.
+- 👩‍🎓 I have an Analysis and Systems Development degree.
 - ✈️ Embedded System for Aerospace Industry @ [UFPE - CIn](https://pes-embraer.cin.ufpe.br/)
 - 🖥️ Chatbot and software development experience.
 
